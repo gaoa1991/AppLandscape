@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationLandscape.SQL", "ApplicationLandscape.SQL\ApplicationLandscape.SQL.csproj", "{FA408B6E-3F83-4420-9243-27368C0A3ACE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationLandscape.SQL", "ApplicationLandscape.SQL\ApplicationLandscape.SQL.csproj", "{FA408B6E-3F83-4420-9243-27368C0A3ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbobank.SOA.AppLandscape", "Rabbobank.SOA.AppLandscape\Rabbobank.SOA.AppLandscape.csproj", "{BF3DC0C7-2728-4BF4-8B9D-D00481D5D661}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FA408B6E-3F83-4420-9243-27368C0A3ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA408B6E-3F83-4420-9243-27368C0A3ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA408B6E-3F83-4420-9243-27368C0A3ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3DC0C7-2728-4BF4-8B9D-D00481D5D661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3DC0C7-2728-4BF4-8B9D-D00481D5D661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3DC0C7-2728-4BF4-8B9D-D00481D5D661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3DC0C7-2728-4BF4-8B9D-D00481D5D661}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
